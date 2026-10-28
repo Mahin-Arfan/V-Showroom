@@ -1,0 +1,6 @@
+[
+  { "sku": "cloud-runner", "name": "Cloud Runner", "price": "৳1,450", "sizes": [3,4,5], "slot": "Slot_01", "visible": true, "color": "#f2b632", "orderUrl": "https://example.com/cart?add={sku}" },
+  { "sku": "puddle-boot",  "name": "Puddle Boot",  "price": "৳1,800", "sizes": [4,5,6], "slot": "Slot_02", "visible": true, "color": "#5aa9e6", "orderUrl": "https://example.com/cart?add={sku}" },
+  { "sku": "first-steps",  "name": "First Steps",  "price": "৳1,200", "sizes": [2,3,4], "slot": "Slot_03", "visible": true, "color": "#f28c9b", "orderUrl": "https://example.com/cart?add={sku}" },
+  { "sku": "hidden-demo",  "name": "Hidden Demo",  "price": "৳999",   "sizes": [5],     "slot": "Slot_04", "visible": false, "color": "#888888", "orderUrl": "https://example.com/cart?add={sku}" }
+]
